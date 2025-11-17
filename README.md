@@ -346,9 +346,9 @@ API эндпоинты доступны по адресу `http://localhost:8000
 
 ## 📞 Контакты
 
-- **Email:** maxim007mv@example.com
+- **Email:** lomakin2006lomaki@yandex.ru
 - **GitHub:** [@maxim007mv](https://github.com/maxim007mv)
-- **LinkedIn:** [Ваш профиль]
+
 
 ## � Благодарности
 
